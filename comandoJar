@@ -1,0 +1,1 @@
+jar -cvfm Ejecutable.jar MANIFEST.MF com/cronos/Tarea/*.class com/cronos/Materia/*.class com/cronos/Horario/*.class com/cronos/Clase/*.class com/cronos/Principal/*.class com/cronos/boxes/*.class com/cronos/Cronograma/*.class com/cronos/Imagenes/*.png com/cronos/Css/*.css com/cronos/Archivos/*.class com/cronos/Mines/*
